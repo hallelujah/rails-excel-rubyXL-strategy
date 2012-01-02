@@ -4,7 +4,7 @@ require "rails-excel/strategies/rubyXL/version"
 
 Gem::Specification.new do |s|
   s.name        = "rails-excel-rubyXL-strategy"
-  s.version     = Rails::Excel::Strategies::RubyXL::VERSION
+  s.version     = RailsExcel::Strategies::RubyXL::VERSION
   s.authors     = ["Hallelujah (Ramihajamalala Hery)"]
   s.email       = ["hery@rails-royce.org"]
   s.homepage    = ""
