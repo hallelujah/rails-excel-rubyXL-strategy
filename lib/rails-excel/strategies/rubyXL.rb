@@ -12,3 +12,5 @@ module RailsExcel
     end
   end
 end
+::Mime::Type.register "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", :xlsx
+
